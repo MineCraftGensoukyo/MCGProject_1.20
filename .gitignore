@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# 项目排除路径
+/src/main/moe_old/gensoukyo/mcgproject/entity/
+/src/main/moe_old/gensoukyo/mcgproject/mixin/
+/src/main/moe_old/gensoukyo/mcgproject/mixininterface/
+/src/main/moe_old/gensoukyo/mcgproject/network/

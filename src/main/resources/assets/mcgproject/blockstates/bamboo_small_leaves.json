@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "is_top=false": { "model": "mcgproject:block/nature/bamboo_small_leaves" },
+    "is_top=true": { "model": "mcgproject:block/nature/bamboo_small_leaves_top" }
+  }
+}

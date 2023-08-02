@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "mcgproject:block/nature/water_farmland"
+    },
+    "moisture=1": {
+      "model": "mcgproject:block/nature/water_farmland"
+    },
+    "moisture=2": {
+      "model": "mcgproject:block/nature/water_farmland"
+    },
+    "moisture=3": {
+      "model": "mcgproject:block/nature/water_farmland"
+    },
+    "moisture=4": {
+      "model": "mcgproject:block/nature/water_farmland_moist"
+    },
+    "moisture=5": {
+      "model": "mcgproject:block/nature/water_farmland_moist"
+    },
+    "moisture=6": {
+      "model": "mcgproject:block/nature/water_farmland_moist"
+    },
+    "moisture=7": {
+      "model": "mcgproject:block/nature/water_farmland_watered"
+    }
+  }
+}

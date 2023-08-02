@@ -1,0 +1,26 @@
+{
+  "key.categories.mcgproject": "MCGProject",
+  "key.mcgproject.locktarget": "锁定目标",
+
+  "itemGroup.mcg_nature": "MCG:自然",
+  "block.mcgproject.ivy": "爬山虎",
+  "block.mcgproject.clover": "三叶草",
+  "block.mcgproject.lucky_clover": "带四叶草三叶草",
+  "block.mcgproject.paddy": "水稻苗",
+  "block.mcgproject.paddy_sparse": "稀疏水稻苗",
+  "block.mcgproject.paddy_dense": "密植水稻苗",
+  "block.mcgproject.water_farmland": "水田",
+  "block.mcgproject.bamboo": "竹子",
+  "block.mcgproject.bamboo_big_leaves": "竹子(大叶)",
+  "block.mcgproject.bamboo_small_leaves": "竹子(小叶)",
+  "block.mcgproject.bamboo_shoot_fresh": "嫩竹笋",
+  "block.mcgproject.bamboo_shoot_old": "老竹笋",
+
+  "itemGroup.mcg_structure": "MCG:结构",
+  "block.mcgproject.namako": "海鼠壁",
+  "block.mcgproject.tatami": "榻榻米",
+  "block.mcgproject.tatami_no_side": "榻榻米(无边线)",
+
+  "itemGroup.mcg_prop": "MCG:道具",
+  "item.mcgproject.tester": "测试弹幕发射器"
+}

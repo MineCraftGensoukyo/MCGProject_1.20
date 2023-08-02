@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/lucky_clover" },
+      { "model": "mcgproject:block/nature/lucky_clover2" },
+      { "model": "mcgproject:block/nature/lucky_clover","y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/lucky_clover2","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/lucky_clover","y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/lucky_clover2","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/lucky_clover","y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/lucky_clover2","y": 270, "uvlock": true  }
+    ]
+  }
+}

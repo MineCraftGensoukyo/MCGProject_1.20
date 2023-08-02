@@ -1,0 +1,9 @@
+{
+  "parent": "mcgproject:block/nature/template_water_farmland_watered",
+  "render_type": "translucent",
+  "textures": {
+    "dirt": "minecraft:block/dirt",
+    "content": "minecraft:block/water_still",
+    "top": "minecraft:block/farmland_moist"
+  }
+}

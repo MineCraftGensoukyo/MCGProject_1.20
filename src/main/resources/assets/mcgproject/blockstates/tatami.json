@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "":
+      { "model": "mcgproject:block/structure/tatami" }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/clover" },
+      { "model": "mcgproject:block/nature/clover2" },
+      { "model": "mcgproject:block/nature/clover3" },
+      { "model": "mcgproject:block/nature/clover4" },
+      { "model": "mcgproject:block/nature/clover5" },
+      { "model": "mcgproject:block/nature/clover","y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/clover2","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover3","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover4","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover5","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover","y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/clover2","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover3","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover4","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover5","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover","y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/clover2","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover3","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover4","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/clover5","y": 270, "uvlock": true  }
+    ]
+  }
+}

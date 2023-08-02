@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/paddy_dense" },
+      { "model": "mcgproject:block/nature/paddy_dense2" },
+      { "model": "mcgproject:block/nature/paddy_dense3" },
+      { "model": "mcgproject:block/nature/paddy_dense4" },
+      { "model": "mcgproject:block/nature/paddy_dense","y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_dense2","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense3","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense4","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense","y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_dense2","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense3","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense4","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense","y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_dense2","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense3","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_dense4","y": 270, "uvlock": true  }
+    ]
+  }
+}

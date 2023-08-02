@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/paddy" },
+      { "model": "mcgproject:block/nature/paddy2" },
+      { "model": "mcgproject:block/nature/paddy3" },
+      { "model": "mcgproject:block/nature/paddy4" },
+      { "model": "mcgproject:block/nature/paddy5" },
+      { "model": "mcgproject:block/nature/paddy","y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy2","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy3","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy4","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy5","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy","y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy2","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy3","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy4","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy5","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy","y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy2","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy3","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy4","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy5","y": 270, "uvlock": true  }
+    ]
+  }
+}

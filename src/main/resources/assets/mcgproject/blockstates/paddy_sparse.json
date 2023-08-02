@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/paddy_sparse" },
+      { "model": "mcgproject:block/nature/paddy_sparse2" },
+      { "model": "mcgproject:block/nature/paddy_sparse3" },
+      { "model": "mcgproject:block/nature/paddy_sparse","y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_sparse2","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_sparse3","y": 90, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_sparse","y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_sparse2","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_sparse3","y": 180, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_sparse","y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/paddy_sparse2","y": 270, "uvlock": true  },
+      { "model": "mcgproject:block/nature/paddy_sparse3","y": 270, "uvlock": true  }
+    ]
+  }
+}
