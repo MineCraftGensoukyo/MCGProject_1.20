@@ -44,8 +44,8 @@ public class TabRegistry {//创造模式物品栏
                 output.accept(MCGNatureBlocks.FLOWER_GRAY_FIELD_SPEEDWELL.get());
                 output.accept(MCGNatureBlocks.ARROWHEAD.get());
                 output.accept(MCGNatureBlocks.ARROWHEAD_DENSE.get());
-                output.accept(MCGNatureBlocks.SILVERGRASS_DENSE.get());
                 output.accept(MCGNatureBlocks.SILVERGRASS_HIGH.get());
+                output.accept(MCGNatureBlocks.SILVERGRASS_DENSE.get());
             }).build());
     //MCG:道具
     public static final RegistryObject<CreativeModeTab> MCG_PROP = MCG_TABS.register("mcg_prop", () -> CreativeModeTab.builder()
