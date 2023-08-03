@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/arrowhead_dense2" },
+      { "model": "mcgproject:block/nature/arrowhead_dense4" },
+      { "model": "mcgproject:block/nature/arrowhead_dense5" },
+      { "model": "mcgproject:block/nature/arrowhead_dense6" },
+      { "model": "mcgproject:block/nature/arrowhead_dense2", "y": 90 },
+      { "model": "mcgproject:block/nature/arrowhead_dense4", "y": 90 },
+      { "model": "mcgproject:block/nature/arrowhead_dense5", "y": 90 },
+      { "model": "mcgproject:block/nature/arrowhead_dense6", "y": 90 },
+      { "model": "mcgproject:block/nature/arrowhead_dense2", "y": 180 },
+      { "model": "mcgproject:block/nature/arrowhead_dense4", "y": 180 },
+      { "model": "mcgproject:block/nature/arrowhead_dense5", "y": 180 },
+      { "model": "mcgproject:block/nature/arrowhead_dense6", "y": 180 },
+      { "model": "mcgproject:block/nature/arrowhead_dense2", "y": 270 },
+      { "model": "mcgproject:block/nature/arrowhead_dense4", "y": 270 },
+      { "model": "mcgproject:block/nature/arrowhead_dense5", "y": 270 },
+      { "model": "mcgproject:block/nature/arrowhead_dense6", "y": 270 }
+    ]
+  }
+}

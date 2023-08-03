@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/silvergrass_high_1" },
+      { "model": "mcgproject:block/nature/silvergrass_high_2" },
+      { "model": "mcgproject:block/nature/silvergrass_high_3" },
+      { "model": "mcgproject:block/nature/silvergrass_high_4" },
+      { "model": "mcgproject:block/nature/silvergrass_high_1", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_2", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_3", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_4", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_1", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_2", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_3", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_4", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_1", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_2", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_3", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/silvergrass_high_4", "y": 270, "uvlock": true }
+    ]
+  }
+}

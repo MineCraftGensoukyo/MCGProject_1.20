@@ -1,0 +1,33 @@
+{
+  "key.categories.mcgproject": "MCGProject",
+  "key.mcgproject.locktarget": "Lock Target",
+
+  "itemGroup.mcg_nature": "MCG:Nature",
+  "block.mcgproject.ivy": "Ivy",
+  "block.mcgproject.clover": "Clover",
+  "block.mcgproject.lucky_clover": "Lucky Clover",
+  "block.mcgproject.paddy": "Paddy",
+  "block.mcgproject.paddy_sparse": "Sparse Paddy",
+  "block.mcgproject.paddy_dense": "Dense Paddy",
+  "block.mcgproject.water_farmland": "Water Farmland",
+  "block.mcgproject.bamboo": "Bamboo",
+  "block.mcgproject.bamboo_big_leaves": "Bamboo(Big Leaves)",
+  "block.mcgproject.bamboo_small_leaves": "Bamboo(Small Leaves)",
+  "block.mcgproject.bamboo_shoot_fresh": "Fresh Bamboo Shoot",
+  "block.mcgproject.bamboo_shoot_old": "Old Bamboo Shoot",
+  "block.mcgproject.iris": "iris",
+  "block.mcgproject.flower_gray_field_speedwell": "Flower Gray Field Speedwell",
+  "block.mcgproject.arrowhead": "Arrowhead",
+  "block.mcgproject.arrowhead_dense": "Dense Arrowhead",
+  "block.mcgproject.silvergrass_dense": "Dense SilverGrass",
+  "block.mcgproject.silvergrass_high": "High SilverGrass",
+
+
+  "itemGroup.mcg_structure": "MCG:Structure",
+  "block.mcgproject.namako": "Namako",
+  "block.mcgproject.tatami": "Tatami",
+  "block.mcgproject.tatami_no_side": "No Side Tatami",
+
+  "itemGroup.mcg_prop": "MCG:Prop",
+  "item.mcgproject.tester": "Danmaku Tester"
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/iris_0" },
+      { "model": "mcgproject:block/nature/iris_1" },
+      { "model": "mcgproject:block/nature/iris_2" },
+      { "model": "mcgproject:block/nature/iris_3" },
+      { "model": "mcgproject:block/nature/iris_0", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_1", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_2", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_3", "y": 90, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_0", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_1", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_2", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_3", "y": 180, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_0", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_1", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_2", "y": 270, "uvlock": true },
+      { "model": "mcgproject:block/nature/iris_3", "y": 270, "uvlock": true }
+    ]
+  }
+}

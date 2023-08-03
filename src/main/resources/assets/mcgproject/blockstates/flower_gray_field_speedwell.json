@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "mcgproject:block/nature/flower_gray_field_speedwell" },
+      { "model": "mcgproject:block/nature/flower_gray_field_speedwell", "y": 90 },
+      { "model": "mcgproject:block/nature/flower_gray_field_speedwell", "y": 180 },
+      { "model": "mcgproject:block/nature/flower_gray_field_speedwell", "y": 270 }
+    ]
+  }
+}

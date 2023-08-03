@@ -9,8 +9,6 @@ import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.ItemStack;
-import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
@@ -42,6 +40,12 @@ public class TabRegistry {//创造模式物品栏
                 output.accept(MCGNatureBlocks.BAMBOO_SMALL_LEAVES.get());
                 output.accept(MCGNatureBlocks.BAMBOO_SHOOT_FRESH.get());
                 output.accept(MCGNatureBlocks.BAMBOO_SHOOT_OLD.get());
+                output.accept(MCGNatureBlocks.IRIS.get());
+                output.accept(MCGNatureBlocks.FLOWER_GRAY_FIELD_SPEEDWELL.get());
+                output.accept(MCGNatureBlocks.ARROWHEAD.get());
+                output.accept(MCGNatureBlocks.ARROWHEAD_DENSE.get());
+                output.accept(MCGNatureBlocks.SILVERGRASS_DENSE.get());
+                output.accept(MCGNatureBlocks.SILVERGRASS_HIGH.get());
             }).build());
     //MCG:道具
     public static final RegistryObject<CreativeModeTab> MCG_PROP = MCG_TABS.register("mcg_prop", () -> CreativeModeTab.builder()

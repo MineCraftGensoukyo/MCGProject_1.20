@@ -50,6 +50,6 @@ public class MCGProject {
     @SubscribeEvent
     public static void welcomeLogin(PlayerEvent.PlayerLoggedInEvent event){
          Player player = event.getEntity();
-        player.sendSystemMessage(Component.translatable("test"));
+        player.sendSystemMessage(Component.translatable("Welcome!"));
     }
 }

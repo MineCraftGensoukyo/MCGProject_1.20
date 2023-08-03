@@ -15,6 +15,12 @@
   "block.mcgproject.bamboo_small_leaves": "竹子(小叶)",
   "block.mcgproject.bamboo_shoot_fresh": "嫩竹笋",
   "block.mcgproject.bamboo_shoot_old": "老竹笋",
+  "block.mcgproject.iris": "鸢尾",
+  "block.mcgproject.flower_gray_field_speedwell": "婆婆纳",
+  "block.mcgproject.arrowhead": "慈姑",
+  "block.mcgproject.arrowhead_dense": "茂密慈姑",
+  "block.mcgproject.silvergrass_dense": "芒草",
+  "block.mcgproject.silvergrass_high": "高芒草",
 
   "itemGroup.mcg_structure": "MCG:结构",
   "block.mcgproject.namako": "海鼠壁",
