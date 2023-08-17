@@ -1,13 +1,16 @@
 package moe.gensoukyo.mcgproject;
 
 import com.mojang.logging.LogUtils;
+import moe.gensoukyo.mcgproject.Command.GensouChestCommand;
 import moe.gensoukyo.mcgproject.block.*;
 import moe.gensoukyo.mcgproject.item.MCGMaterialItems;
 import moe.gensoukyo.mcgproject.item.MCGPropItems;
+import moe.gensoukyo.mcgproject.mixin.mixinInterface.PlayerAccess;
 import moe.gensoukyo.mcgproject.registry.*;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.entity.player.Player;
 import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.RegisterCommandsEvent;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -32,6 +35,8 @@ public class MCGProject {
         BlockRegistry.BLOCKS.register(modEventBus);
         TabRegistry.MCG_TABS.register(modEventBus);
         EntityRegistry.ENTITIES.register(modEventBus);
+        //注册gui
+        MenuRegistry.CONTAINERS.register(modEventBus);
         //注册Mod自身
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -51,5 +56,14 @@ public class MCGProject {
     public static void welcomeLogin(PlayerEvent.PlayerLoggedInEvent event){
          Player player = event.getEntity();
         player.sendSystemMessage(Component.translatable("Welcome!"));
+    }
+    @SubscribeEvent
+    public static void registerCommands (RegisterCommandsEvent event) {
+        GensouChestCommand.register(event.getDispatcher());
+    }
+    @SubscribeEvent
+    public static void onPlayerCloned (PlayerEvent.Clone event) {
+        ((PlayerAccess)event.getEntity()).setContainerList(((PlayerAccess)event.getOriginal()).getContainerList());
+        ((PlayerAccess)event.getEntity()).setContainerID(((PlayerAccess)event.getOriginal()).getGensouchestID());
     }
 }

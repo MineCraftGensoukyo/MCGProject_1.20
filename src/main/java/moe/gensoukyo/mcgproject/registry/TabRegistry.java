@@ -22,6 +22,7 @@ public class TabRegistry {//创造模式物品栏
                 output.accept(MCGStructureBlocks.NAMAKO.get());
                 output.accept(MCGStructureBlocks.TATAMI.get());
                 output.accept(MCGStructureBlocks.TATAMI_NO_SIDE.get());
+                output.accept(MCGStructureBlocks.GENSOU_CHEST.get());
             }).build());
     //MCG:自然
     public static final RegistryObject<CreativeModeTab> MCG_NATURE = MCG_TABS.register("mcg_nature", () -> CreativeModeTab.builder()
