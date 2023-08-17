@@ -1,5 +1,6 @@
 package moe.gensoukyo.mcgproject.block;
 
+import moe.gensoukyo.mcgproject.block.structure.GensouChest;
 import moe.gensoukyo.mcgproject.registry.BlockRegistry;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
@@ -18,4 +19,6 @@ public class MCGStructureBlocks {
     //榻榻米(无边线)
     public static final RegistryObject<Block> TATAMI_NO_SIDE = BlockRegistry.registerBlock("tatami_no_side",
             ()->new Block(BlockBehaviour.Properties.of().sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> GENSOU_CHEST = BlockRegistry.registerBlock("gensou_chest",
+            ()->new GensouChest(BlockBehaviour.Properties.of()));
 }
